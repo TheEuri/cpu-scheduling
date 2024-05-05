@@ -1,0 +1,33 @@
+EXECUTION BY EDF
+[t1] for 2 units - F
+[t2] for 2 units - F
+[t3] for 2 units - F
+[t4] for 2 units - F
+[t1] for 2 units - F
+[t2] for 2 units - F
+[t3] for 2 units - F
+[t1] for 1 units - L
+[t4] for 1 units - L
+[t2] for 2 units - F
+[t1] for 2 units - F
+[t3] for 1 units - L
+[t4] for 2 units - F
+[t2] for 1 units - L
+
+LOST DEADLINES
+[t1] 1
+[t2] 1
+[t3] 1
+[t4] 1
+
+COMPLETE EXECUTION
+[t1] 3
+[t2] 3
+[t3] 2
+[t4] 2
+
+KILLED
+[t1] 1
+[t2] 1
+[t3] 1
+[t4] 1

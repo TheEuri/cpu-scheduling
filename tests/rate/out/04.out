@@ -1,0 +1,49 @@
+EXECUTION BY RATE
+[T1] for 1 units - F
+[T2] for 2 units - F
+[T3] for 1 units - H
+[T1] for 1 units - F
+[T3] for 2 units - F
+idle for 1 units
+[T1] for 1 units - F
+[T2] for 2 units - F
+idle for 1 units
+[T1] for 1 units - F
+[T3] for 3 units - F
+[T1] for 1 units - F
+[T2] for 2 units - F
+idle for 1 units
+[T1] for 1 units - F
+idle for 3 units
+[T1] for 1 units - F
+[T2] for 2 units - F
+[T3] for 1 units - H
+[T1] for 1 units - F
+[T3] for 2 units - F
+idle for 1 units
+[T1] for 1 units - F
+[T2] for 2 units - F
+idle for 1 units
+[T1] for 1 units - F
+[T3] for 3 units - F
+[T1] for 1 units - F
+[T2] for 2 units - F
+idle for 1 units
+[T1] for 1 units - F
+idle for 3 units
+[T1] for 1 units - F
+
+LOST DEADLINES
+[T1] 0
+[T2] 0
+[T3] 0
+
+COMPLETE EXECUTION
+[T1] 13
+[T2] 6
+[T3] 4
+
+KILLED
+[T1] 0
+[T2] 1
+[T3] 1

@@ -1,0 +1,27 @@
+EXECUTION BY RATE
+[P2] for 2 units - F
+[P3] for 2 units - F
+[P1] for 1 units - H
+[P2] for 2 units - F
+[P1] for 2 units - F
+idle for 1 units
+[P2] for 2 units - F
+[P3] for 2 units - F
+idle for 1 units
+[P2] for 2 units - F
+idle for 3 units
+
+LOST DEADLINES
+[P1] 0
+[P2] 0
+[P3] 0
+
+COMPLETE EXECUTION
+[P1] 1
+[P2] 4
+[P3] 2
+
+KILLED
+[P1] 1
+[P2] 1
+[P3] 1

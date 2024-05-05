@@ -1,0 +1,19 @@
+EXECUTION BY RATE
+[t1] for 20 units - F
+[t2] for 10 units - H
+[t1] for 20 units - F
+[t2] for 10 units - H
+[t1] for 20 units - F
+[t2] for 10 units - H
+
+LOST DEADLINES
+[t1] 0
+[t2] 1
+
+COMPLETE EXECUTION
+[t1] 3
+[t2] 0
+
+KILLED
+[t1] 1
+[t2] 1

@@ -1,0 +1,30 @@
+EXECUTION BY EDF
+[t1] for 1 units - F
+[t2] for 2 units - F
+[t3] for 3 units - F
+[t1] for 1 units - F
+[t2] for 2 units - F
+[t1] for 1 units - F
+[t3] for 3 units - F
+[t1] for 1 units - F
+[t2] for 2 units - F
+[t1] for 1 units - F
+[t3] for 3 units - F
+[t2] for 2 units - F
+[t1] for 1 units - F
+idle for 1 units
+
+LOST DEADLINES
+[t1] 0
+[t2] 0
+[t3] 0
+
+COMPLETE EXECUTION
+[t1] 6
+[t2] 4
+[t3] 3
+
+KILLED
+[t1] 1
+[t2] 1
+[t3] 1

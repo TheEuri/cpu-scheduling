@@ -1,0 +1,15 @@
+EXECUTION BY RATE
+[t1] for 3 units - F
+[t2] for 7 units - H
+
+LOST DEADLINES
+[t1] 0
+[t2] 1
+
+COMPLETE EXECUTION
+[t1] 1
+[t2] 0
+
+KILLED
+[t1] 1
+[t2] 1
