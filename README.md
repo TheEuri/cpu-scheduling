@@ -13,7 +13,7 @@ LOST vem antes de KILL, ou seja, a verificação do LOST deve vir antes do KILL.
 Finish (F), depois Hold (H) e na sequência (L)
 ```
 
-O código simula o funcionamento de 2 algoritimos de escalonamento de CPU, o Rate Monotonic e o Earliest Deadline First.
+O código simula o funcionamento de 2 algoritmos de escalonamento de CPU, o Rate Monotonic e o Earliest Deadline First.
 
 ## Para rodar
 
