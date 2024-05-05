@@ -6,6 +6,13 @@ O objetivo da atividade era passar nos testes, cumprir com os requisitos descrit
 
 O código presente neste repositório passou com nota máxima, porém sei que não está otimizado, mas está funcional ;)
 
+Outros requisitos/informações dadas pelo professor que não foram descritos no documento:
+```
+A ordem de impressão das tarefas nas listas LOST DEADLINES, COMPLETE EXECUTION e KILLED é a mesma do arquivo de entrada.
+LOST vem antes de KILL, ou seja, a verificação do LOST deve vir antes do KILL.
+Finish (F), depois Hold (H) e na sequência (L)
+```
+
 O código simula o funcionamento de 2 algoritimos de escalonamento de CPU, o Rate Monotonic e o Earliest Deadline First.
 
 ## Para rodar
